@@ -1,4 +1,4 @@
-int ledPin = 13;    // Pin where the LED is connected
+int ledPin = 13;    // Pin where the LED is connected 
 int buttonPin = 7;  // Pin where the pushbutton is connected
 bool isButtonPressed = false;  // Track the state of the button
 
